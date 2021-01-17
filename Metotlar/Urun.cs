@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Metotlara
+namespace Metotlar
 {
     class Urun
     {
+        //propety - özellik
         public int Id { get; set; }
         public string Adi { get; set; }
         public double Fiyati { get; set; }
