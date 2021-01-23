@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kendimiDeniyorum", "kendimi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{23994736-EE31-4173-B1DD-71B75B139303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{5C757235-3F55-4777-A8EB-5576D9F30E61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{5C757235-3F55-4777-A8EB-5576D9F30E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictonary", "Dictonary\Dictonary.csproj", "{B4A56C3F-C607-42FC-8C23-5B2647776400}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{5C757235-3F55-4777-A8EB-5576D9F30E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C757235-3F55-4777-A8EB-5576D9F30E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C757235-3F55-4777-A8EB-5576D9F30E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A56C3F-C607-42FC-8C23-5B2647776400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A56C3F-C607-42FC-8C23-5B2647776400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A56C3F-C607-42FC-8C23-5B2647776400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A56C3F-C607-42FC-8C23-5B2647776400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
