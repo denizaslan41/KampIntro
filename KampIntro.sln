@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMeto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictonary", "Dictonary\Dictonary.csproj", "{B4A56C3F-C607-42FC-8C23-5B2647776400}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{04A7C6E2-EE48-416D-8750-E64FD0F7287D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{04A7C6E2-EE48-416D-8750-E64FD0F7287D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{B7FB8701-2DD7-43C0-8ED3-A43C6F1493DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{04A7C6E2-EE48-416D-8750-E64FD0F7287D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04A7C6E2-EE48-416D-8750-E64FD0F7287D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04A7C6E2-EE48-416D-8750-E64FD0F7287D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FB8701-2DD7-43C0-8ED3-A43C6F1493DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FB8701-2DD7-43C0-8ED3-A43C6F1493DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FB8701-2DD7-43C0-8ED3-A43C6F1493DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FB8701-2DD7-43C0-8ED3-A43C6F1493DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
