@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Oop2
 {
-    class GercekMüsteri
+    class GercekMüsteri:Müsteri
     {
+
+        public string TcNo { get; set; }        
+        public string Adi { get; set; }
+        public string Soyadi { get; set; }
     }
 }
