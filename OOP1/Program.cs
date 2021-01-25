@@ -26,8 +26,8 @@ namespace OOP1
             //case sensitive
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
-            Console.WriteLine(product1.ProductName +" "+ product1.UnitPrice);
-            Console.WriteLine(product2.ProductName +" "+ product2.UnitPrice);
+            Console.WriteLine(product1.ProductName +" "+ product1.UnitPrice + " " + product1.UnitsInStock);
+            Console.WriteLine(product2.ProductName +" "+ product2.UnitPrice + " " + product2.UnitsInStock);
 
 
 
